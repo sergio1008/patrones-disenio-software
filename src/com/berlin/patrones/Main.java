@@ -1,7 +1,6 @@
 package com.berlin.patrones;
 
 import com.berlin.patrones.builder.Persona;
-import com.berlin.patrones.builder.Persona.PersonaBuilder;
 import com.berlin.patrones.factorymethod.Animal;
 import com.berlin.patrones.factorymethod.GatoFactory;
 import com.berlin.patrones.factorymethod.PerroFactory;
